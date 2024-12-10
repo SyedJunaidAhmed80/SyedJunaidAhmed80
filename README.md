@@ -3,6 +3,7 @@ Hey, I'm Junaid an Experienced Web and Mobile Developer, with a track record of 
 
 Let's connect to explore how my expertise can help your ventures thrive.
 
+
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
 
